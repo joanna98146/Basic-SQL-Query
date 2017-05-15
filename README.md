@@ -1,7 +1,7 @@
 # Basic-SQL-Query
 These are SQL Queries I created to query the Customers database located: https://www.w3schools.com/sql/trysql.asp?filename=trysql_op_or
 
-Here is a sample fo the database:
+Here is a sample of the database:
 
 <strong>CustomerID	CustomerName	ContactName	Address	City	PostalCode	Country</strong>
 1	Alfreds Futterkiste	Maria Anders	Obere Str. 57	Berlin	12209	Germany
